@@ -3,6 +3,7 @@
     "packages/*"
   ],
   "version": "independent",
+  "useWorkspaces": true,
   "npmClient": "npm",
   "command": {
     "publish": {
