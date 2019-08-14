@@ -1,0 +1,25 @@
+{
+  "name": "pica-demo1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "zhangping <chenfeng_lian@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pica-demo1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://192.168.110.93:4873/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "pica-demo2": "^1.0.0"
+  }
+}
