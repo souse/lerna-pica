@@ -1,6 +1,6 @@
 {
   "name": "pica-demo1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "zhangping <chenfeng_lian@126.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "pica-demo2": "^1.0.1"
+    "pica-demo2": "^1.0.2"
   }
 }
