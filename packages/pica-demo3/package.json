@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/souse/lerna-pica/issues"
   },
-  "homepage": "https://github.com/souse/lerna-pica#readme"
+  "homepage": "https://github.com/souse/lerna-pica#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }

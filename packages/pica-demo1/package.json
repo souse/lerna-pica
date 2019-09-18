@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "pica-demo2": "^1.0.3"
+    "pica-demo2": "^1.0.3",
+    "vue": "^2.6.10"
   }
 }

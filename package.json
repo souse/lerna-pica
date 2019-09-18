@@ -2,7 +2,8 @@
   "name": "root",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages/@pica-h5/*"
   ],
   "devDependencies": {
     "lerna": "^3.16.4"
